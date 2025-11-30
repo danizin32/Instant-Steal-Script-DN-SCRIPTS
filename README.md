@@ -91,7 +91,7 @@ end)
 local Title2 = Instance.new("TextLabel", Main)
 Title2.Size = UDim2.new(1, 0, 0.25, 0)
 Title2.BackgroundTransparency = 1
-Title2.Text = "MozilOnTop"
+Title2.Text = "@dnscripts"
 Title2.TextColor3 = Color3.fromRGB(255,255,255)
 Title2.Font = Enum.Font.GothamBold
 Title2.TextScaled = true
